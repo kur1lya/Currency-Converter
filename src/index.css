@@ -12,3 +12,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+.header {
+  display: flex;
+  overflow: hidden;
+  background-color: #141111;
+  padding: 20px 10px;
+  color: aliceblue;
+  justify-content: end;
+}
+
+.rates {
+  padding-right: 40px;
+  padding-left: 20px;
+}
